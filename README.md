@@ -28,7 +28,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 ### 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/joeeahmed25?theme=nord&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/pgoqUiUTLE?theme=nord&font=Karma&ext=heatmap" />
 </p>
 
 ---
