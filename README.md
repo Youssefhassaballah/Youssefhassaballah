@@ -10,7 +10,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Alexandria%20University-blue?style=for-the-badge&logo=university"/>
-  <img src="https://img.shields.io/badge/OS%20%26%20Back-End-Expert-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS_and_Back-End-Expert-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-lightgrey?style=for-the-badge"/>
 </p>
@@ -39,7 +39,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 
 ### 📂 Featured Projects
 
-#### 🏨 [JetStay](https://github.com/Youssefhassaballah) | Full-Stack Booking Platform
+#### 🏨 [JetStay](https://github.com/Youssefhassaballah/JetStay) | Full-Stack Booking Platform
 *A comprehensive platform for managing hotel and flight bookings with a complex user ecosystem.*
 * **Tech Stack:** React, Spring Boot, MySQL, Cloudinary.
 * **Key Achievements:**
@@ -47,7 +47,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
     * Engineered a full **Partnership Workflow**, including request submission and hotel/flight offer management.
     * Integrated **Cloudinary** for cloud-based image storage and **MySQL** for robust data persistence.
 
-#### 📧 [InstaMail](https://github.com/Youssefhassaballah) | Advanced Email Client
+#### 📧 [InstaMail](https://github.com/Youssefhassaballah/InstaMail) | Advanced Email Client
 *A high-performance email application built with a focus on software architecture and design patterns.*
 * **Tech Stack:** React, Spring Boot, MySQL.
 * **Key Achievements:**
@@ -55,7 +55,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
     * Optimized backend performance through **Database Indexing** and **Caching**, reducing response times for heavy queries.
     * Built a responsive UI for contact management and real-time message flow.
 
-#### 📋 [DoHub](https://github.com/Youssefhassaballah) | Collaborative Task Management
+#### 📋 [DoHub](https://github.com/Youssefhassaballah/to_do_list) | Collaborative Task Management
 *Real-time productivity tool designed for team collaboration and task tracking.*
 * **Tech Stack:** React, Node.js, MySQL, Server-Sent Events (SSE), JWT.
 * **Key Achievements:**
@@ -63,7 +63,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
     * Developed advanced productivity features: **Task Tagging, Prioritization, and Dynamic Filtering**.
     * Secured the platform using **JWT** for robust authentication and data privacy.
 
-#### 🎨 [Paint App](https://github.com/Youssefhassaballah) | Interactive Graphics Editor
+#### 🎨 [Paint App](https://github.com/Youssefhassaballah/Paint) | Interactive Graphics Editor
 *Web-based drawing tool for creating and manipulating vector-like shapes with session persistence.*
 * **Tech Stack:** React, Konva.js, Spring Boot.
 * **Key Achievements:**
@@ -71,7 +71,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
     * Implemented **Undo/Redo** functionality and supported **JSON/XML** for project saving and reloading.
     * Applied **Structural & Behavioral Patterns** (Prototype, Builder, Command) for a modular architecture.
 
-#### 🐧 [Pintos Kernel Project](https://github.com/Youssefhassaballah) | Operating Systems
+#### 🐧 [Pintos Kernel Project](https://github.com/Youssefhassaballah/CSEx61-dockerized-pintos) | Operating Systems
 *System-level programming to enhance the Pintos OS kernel functionality.*
 * **Tech Stack:** C, x86 Assembly.
 * **Key Achievements:**
@@ -79,7 +79,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
     * Extended the **File System** module to support file operations, data persistence, and kernel-level interactions.
     * Optimized CPU utilization through efficient priority management logic.
 
-#### 🧠 [Heart Disease Prediction](https://github.com/Youssefhassaballah) | Machine Learning
+#### 🧠 [Heart Disease Prediction](https://github.com/Youssefhassaballah/Heart-Disease-Risk-Predictor) | Machine Learning
 *AI diagnostic tool to predict cardiovascular risks based on medical datasets.*
 * **Tech Stack:** Python, Scikit-learn, Streamlit.
 * **Key Achievements:**
@@ -108,7 +108,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 ---
 
 ### 📫 Get in Touch
-* **LinkedIn:** [linkedin.com/in/youssef-ahmed](https://linkedin.com/in/youssef-ahmed)
+* **LinkedIn:** [linkedin.com/in/youssef-ahmed]([https://linkedin.com/in/youssef-ahmed](https://www.linkedin.com/in/youssef-ahmed-48a4b8328?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 * **Email:** [joeeahmed25@gmail.com](mailto:joeeahmed25@gmail.com)
 * **Location:** Alexandria, Egypt 🇪🇬
 
