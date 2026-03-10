@@ -1,4 +1,7 @@
 # Hi there, I'm Youssef Ahmed! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Back-End+Engineering+%7C+Operating+Systems;Problem+Solver+%7C+Clean+Code" />
+</p>
 ### Computer & Systems Engineering Student @ Alexandria University
 
 I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast** with a solid foundation in building scalable web applications and exploring the depths of Operating Systems. I love turning complex problems into clean, efficient code.
@@ -6,9 +9,10 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Alexandria%20University-blue"/>
-  <img src="https://img.shields.io/badge/Focus-Operating%20Systems%20%7C%20Back--End-success"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-orange"/>
+  <img src="https://img.shields.io/badge/Student-Alexandria%20University-blue?style=for-the-badge&logo=university"/>
+  <img src="https://img.shields.io/badge/OS%20%26%20Back-End-Expert-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
@@ -28,35 +32,62 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 ### 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pgoqUiUTLE?theme=nord&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/joeeahmed25?theme=nord&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🏨 [JetStay](https://github.com/Youssefhassaballah)
-*Full-stack Hotel & Flight Booking platform.*
-* **Tech:** React, Spring Boot, MySQL, Cloudinary.
-* **Key Feature:** Role-based access for Admin, Partners, and Users with a complex partnership workflow.
+#### 🏨 [JetStay](https://github.com/Youssefhassaballah) | Full-Stack Booking Platform
+*A comprehensive platform for managing hotel and flight bookings with a complex user ecosystem.*
+* **Tech Stack:** React, Spring Boot, MySQL, Cloudinary.
+* **Key Achievements:**
+    * Developed a **Role-Based Access Control (RBAC)** system managing Admins, Partners, and End-users.
+    * Engineered a full **Partnership Workflow**, including request submission and hotel/flight offer management.
+    * Integrated **Cloudinary** for cloud-based image storage and **MySQL** for robust data persistence.
 
-#### 📧 [InstaMail](https://github.com/Youssefhassaballah)
-*Advanced Email Client with a focus on Design Patterns.*
-* **Tech:** React, Spring Boot, MySQL.
-* **Key Feature:** Implemented Singleton, Proxy, Strategy, and Filter patterns to ensure high scalability.
+#### 📧 [InstaMail](https://github.com/Youssefhassaballah) | Advanced Email Client
+*A high-performance email application built with a focus on software architecture and design patterns.*
+* **Tech Stack:** React, Spring Boot, MySQL.
+* **Key Achievements:**
+    * Implemented core **Design Patterns** (Singleton, Proxy, Strategy, Filter) to ensure code maintainability and scalability.
+    * Optimized backend performance through **Database Indexing** and **Caching**, reducing response times for heavy queries.
+    * Built a responsive UI for contact management and real-time message flow.
 
-#### 🎨 [Paint App](https://github.com/Youssefhassaballah)
-*Real-time interactive drawing web application.*
-* **Tech:** React, Konva.js, Spring Boot.
-* **Key Feature:** Supports undo/redo and saving/loading projects via JSON/XML using Command and Prototype patterns.
+#### 📋 [DoHub](https://github.com/Youssefhassaballah) | Collaborative Task Management
+*Real-time productivity tool designed for team collaboration and task tracking.*
+* **Tech Stack:** React, Node.js, MySQL, Server-Sent Events (SSE), JWT.
+* **Key Achievements:**
+    * Implemented **Real-Time Synchronization** using **SSE** to keep task boards updated instantly across all clients.
+    * Developed advanced productivity features: **Task Tagging, Prioritization, and Dynamic Filtering**.
+    * Secured the platform using **JWT** for robust authentication and data privacy.
 
-#### 🐧 [Pintos Kernel Project](https://github.com/Youssefhassaballah)
-*Deep dive into Operating Systems.*
-* **Tech:** C.
-* **Focus:** Thread scheduling, synchronization primitives, and file system management.
+#### 🎨 [Paint App](https://github.com/Youssefhassaballah) | Interactive Graphics Editor
+*Web-based drawing tool for creating and manipulating vector-like shapes with session persistence.*
+* **Tech Stack:** React, Konva.js, Spring Boot.
+* **Key Achievements:**
+    * Utilized **Konva.js** for an interactive canvas supporting shape creation, editing, and layering.
+    * Implemented **Undo/Redo** functionality and supported **JSON/XML** for project saving and reloading.
+    * Applied **Structural & Behavioral Patterns** (Prototype, Builder, Command) for a modular architecture.
+
+#### 🐧 [Pintos Kernel Project](https://github.com/Youssefhassaballah) | Operating Systems
+*System-level programming to enhance the Pintos OS kernel functionality.*
+* **Tech Stack:** C, x86 Assembly.
+* **Key Achievements:**
+    * Developed **Thread Scheduling** and synchronization primitives (Semaphores, Locks, Condition Variables).
+    * Extended the **File System** module to support file operations, data persistence, and kernel-level interactions.
+    * Optimized CPU utilization through efficient priority management logic.
+
+#### 🧠 [Heart Disease Prediction](https://github.com/Youssefhassaballah) | Machine Learning
+*AI diagnostic tool to predict cardiovascular risks based on medical datasets.*
+* **Tech Stack:** Python, Scikit-learn, Streamlit.
+* **Key Achievements:**
+    * Performed **Data Preprocessing** and **Feature Selection** on the Cleveland Heart Disease dataset.
+    * Trained a **Random Forest** model with high accuracy for disease classification.
+    * Deployed a real-time web interface using **Streamlit** for instant model predictions.
 
 ---
-
 ### 📊 My Stats
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssefhassaballah&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefhassaballah&layout=compact&theme=radical)
@@ -70,8 +101,9 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 ### 🎯 Currently Focusing On
 - Advanced **Operating Systems** (Threads, Synchronization, File Systems)
 - **Back-End Engineering** with Spring Boot & REST APIs
+- Exploring **Artificial Intelligence & Machine Learning** (Neural Networks, Deep Learning, AI-driven applications)
 - Improving **Problem Solving** & Algorithmic Thinking
-- Writing clean, maintainable, and scalable code
+- Writing clean, maintainable, and scalable code with **design patterns and best practices**
 
 ---
 
