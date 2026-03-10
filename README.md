@@ -10,9 +10,9 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Alexandria%20University-blue?style=for-the-badge&logo=university"/>
-  <img src="https://img.shields.io/badge/OS_and_Back-End-Expert-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS_and_BackEnd-Expert-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_and_ML-Exploring-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_to-Internships-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
@@ -89,8 +89,8 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 
 ---
 ### 📊 My Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssefhassaballah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefhassaballah&layout=compact&theme=radical)
+![Youssef's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Youssefhassaballah&show_icons=true&theme=radical)
+![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Youssefhassaballah&layout=compact&theme=radical)
 
 ---
 
@@ -108,7 +108,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 ---
 
 ### 📫 Get in Touch
-* **LinkedIn:** [linkedin.com/in/youssef-ahmed]([https://linkedin.com/in/youssef-ahmed](https://www.linkedin.com/in/youssef-ahmed-48a4b8328?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+* **LinkedIn:** [linkedin.com/in/youssef-ahmed](https://www.linkedin.com/in/youssef-ahmed-48a4b8328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Email:** [joeeahmed25@gmail.com](mailto:joeeahmed25@gmail.com)
 * **Location:** Alexandria, Egypt 🇪🇬
 
