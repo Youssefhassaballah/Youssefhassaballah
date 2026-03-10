@@ -10,7 +10,7 @@ I am a passionate **Full-Stack Developer** and **Software Engineering enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Alexandria%20University-blue?style=for-the-badge&logo=university"/>
-  <img src="https://img.shields.io/badge/BackEnd-Intermediate-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BackEnd-Intermediate-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI_and_ML-Exploring-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open_to-Internships-lightgrey?style=for-the-badge"/>
 </p>
